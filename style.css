@@ -1,0 +1,23 @@
+#title{
+    width: 100%;
+    margin-top: 0%;
+}
+body {
+    background-position: center;
+    background-size: cover;
+}
+#footer {
+    background-color: grey;
+    color: azure;
+    margin-bottom: 0%;
+    width: 100%;
+    position: fixed;
+ bottom: 0;
+}
+
+canvas {
+    border-radius: 10px;
+    border-style: dotted;
+    border-width: 10px;
+    margin-top: 100px;
+}
